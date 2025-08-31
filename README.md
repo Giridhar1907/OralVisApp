@@ -73,6 +73,8 @@ images in sessions with metadata storage.
    `Pictures` → `Sessions`
 3. Each session folder (e.g., SES_timestamp) contains its captured images
 
-
+WhatsApp Image 2025-08-31 at 13.40.04_44d7b412.jpg
+WhatsApp Image 2025-08-31 at 13.40.04_e497bddf.jpg
+WhatsApp Image 2025-08-31 at 13.40.04_153c70e2.jpg
 
 
