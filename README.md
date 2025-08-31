@@ -72,3 +72,7 @@ images in sessions with metadata storage.
 2. Navigate to: `Internal Storage` → `Android` → `data` → `com.example.oralvisapp` → `files` →
    `Pictures` → `Sessions`
 3. Each session folder (e.g., SES_timestamp) contains its captured images
+
+
+![WhatsApp Image 2025-08-31 at 13 40 04_153c70e2](https://github.com/user-attachments/assets/9f4ca77b-728d-452a-badc-7dc1b647fe72)
+
